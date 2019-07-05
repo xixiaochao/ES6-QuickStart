@@ -1,6 +1,13 @@
 ﻿# ES6-QuickStart
 ES6快速入门
 
+目录
+- let&const
+- deconstruction(解构赋值)
+- string(模板字符串)
+- arrow-fn(箭头函数)
+- spread(展开运算符)
+- array(数组的方法)
 
 ## ES6简介
 - ECMAScript6.0 ES6 -> ES2015
