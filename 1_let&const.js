@@ -59,7 +59,7 @@ let a = 1;
 }
 
 // 四、通过const声明的变量不能被修改，不能被修改引用空间
-const a = {name:'zfpx'};
-a.age = 9;
+const a = {name:'席小超'};
+a.age = 24;
 console.log(a);
 // 不能修改变量的地址
